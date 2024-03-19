@@ -1,0 +1,16 @@
+.header-container {
+  background-color: #f1f5f9;
+  padding: 20px;
+  padding-left: 50px;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
+.buttn {
+  border: none;
+  background-color: transparent;
+}
+.website-logo{
+  height: 50px;
+  margin-left: 50px;
+}
